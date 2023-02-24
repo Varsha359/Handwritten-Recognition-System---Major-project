@@ -1,0 +1,1 @@
+# Handwritten-Recognition-System---Major-project
